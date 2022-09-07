@@ -298,7 +298,6 @@ potato,corn,1
 pumpkin,corn,1
 radish,corn,1
 zucchini,corn,1
-
 borage,cucumber,1
 cabbage,cucumber,1
 carrots,cucumber,1
@@ -312,12 +311,10 @@ radish,cucumber,1
 sage,cucumber,-1
 sunflower,cucumber,1
 tansy,cucumber,1
-
 coriander,fennel,-1
 dill,fennel,1
 lavender,fennel,-1
 tomato,fennel,-1
-
 cabbage,marigold,1
 carrots,marigold,1
 cherry,marigold,1
@@ -328,7 +325,6 @@ raspberry,marigold,1
 roses,marigold,1
 strawberry,marigold,1
 tomato,marigold,1
-
 chives,fruit trees,1
 marigold,fruit trees,1
 garlic,fruit trees,1
@@ -340,7 +336,6 @@ silverbeet,fruit trees,1
 spinach,fruit trees,1
 tansy,fruit trees,1
 yarrow,fruit trees,1
-
 cabbage,garlic,-1
 chervil,garlic,1
 fruit trees,garlic,1
@@ -348,12 +343,10 @@ lavender,garlic,1
 rosemary,garlic,1
 roses,garlic,1
 sunflower,garlic,-1
-
 mustard,grape vine,1
 tansy,grape vine,1
 tomato,grape vine,1
 yarrow,grape vine,1
-
 beets,lettuce,1
 cabbage,lettuce,1
 carrots,lettuce,1
@@ -367,7 +360,6 @@ parsley,lettuce,-1
 parsnip,lettuce,1
 radish,lettuce,1
 strawberry,lettuce,1
-
 beets,marjoram,1
 cabbage,marjoram,1
 carrots,marjoram,1
@@ -389,8 +381,6 @@ silverbeet,marjoram,1
 spinach,marjoram,1
 tomato,marjoram,1
 zucchini,marjoram,1
-
-
 chives,mulberry,1
 marigold,mulberry,1
 garlic,mulberry,1
@@ -403,7 +393,6 @@ silverbeet,mulberry,1
 spinach,mulberry,1
 tansy,mulberry,1
 yarrow,mulberry,1
-
 cabbage,nasturtiums,1
 cherry,nasturtiums,1
 cucumber,nasturtiums,1
@@ -413,7 +402,6 @@ radish,nasturtiums,1
 roses,nasturtiums,1
 tomato,nasturtiums,1
 zucchini,nasturtiums,1
-
 beets,onion,1
 carrots,onion,1
 leeks,onion,1
@@ -425,15 +413,12 @@ roses,onion,1
 silverbeet,onion,1
 strawberry,onion,1
 tomato,onion,1
-
-
 chervil,parsley,1
 lettuce,parsley,-1
 mint,parsley,-1
 onion,parsley,1
 roses,parsley,1
 tomato,parsley,1
-
 borage,peas,1
 cabbage,peas,1
 carrots,peas,1
@@ -450,9 +435,7 @@ potato,peas,1
 raspberry,peas,1
 sage,peas,1
 shallots,peas,-1
-
 cabbage,pennyroyal,1
-
 beets,potato,1
 cabbage,potato,1
 celery,potato,-1
@@ -469,10 +452,8 @@ raspberry,potato,-1
 rosemary,potato,-1
 sunflower,potato,-1
 tomato,potato,-1
-
 corn,pumpkin,1
 marjoram,pumpkin,1
-
 carrots,radish,1
 chervil,radish,1
 corn,radish,1
@@ -481,14 +462,12 @@ lettuce,radish,1
 marjoram,radish,1
 nasturtiums,radish,1
 parsnip,radish,1
-
 cabbage,rosemary,1
 carrots,rosemary,1
 garlic,rosemary,1
 parsley,rosemary,1
 sage,rosemary,1
 tomato,rosemary,-1
-
 chives,roses,1
 marigold,roses,1
 garlic,roses,1
@@ -502,12 +481,10 @@ rue,roses,1
 sage,roses,1
 tansy,roses,1
 thyme,roses,1
-
 cabbage,rue,-1
 raspberry,rue,1
 roses,rue,1
 sage,rue,-1
-
 cabbage,sage,1
 carrots,sage,1
 cucumber,sage,-1
@@ -517,27 +494,22 @@ rosemary,sage,1
 roses,sage,1
 rue,sage,-1
 strawberry,sage,1
-
 onion,savory,1
-
 cherry,silverbeet,1
 fruit trees,silverbeet,1
 lavender,silverbeet,1
 marjoram,silverbeet,1
 onion,silverbeet,1
-
 cherry,spinach,1
 fruit trees,spinach,1
 marjoram,spinach,1
 strawberry,spinach,1
-
 borage,squash,1
 corn,squash,1
 marjoram,squash,1
 nasturtiums,squash,1
 sunflower,squash,1
 tansy,squash,1
-
 borage,strawberry,1
 cabbage,strawberry,-1
 chives,strawberry,1
@@ -548,9 +520,7 @@ lettuce,strawberry,1
 onion,strawberry,1
 sage,strawberry,1
 spinach,strawberry,1
-
 cucumber,sunflower,1
-
 beets,tomato,-1
 borage,tomato,1
 cabbage,tomato,-1
@@ -569,13 +539,11 @@ onion,tomato,1
 parsley,tomato,1
 parsnip,tomato,1
 rosemary,tomato,-1
-
 chervil,yarrow,1
 fruit trees,yarrow,1
 grape vine,yarrow,1
 grass,yarrow,1
 tansy,yarrow,1
-
 corn,zucchini,1
 marjoram,zucchini,1
 nasturtiums,zucchini,1
