@@ -363,7 +363,7 @@ cucumber,lettuce,1
 marigold,lettuce,1
 marjoram,lettuce,1
 onion,lettuce,1
-parsely,lettuce,-1
+parsley,lettuce,-1
 parsnip,lettuce,1
 radish,lettuce,1
 strawberry,lettuce,1
@@ -496,7 +496,7 @@ horseradish,roses,1
 lavender,roses,1
 lemon balm,roses,1
 nasturtiums,roses,1
-onions,roses,1
+onion,roses,1
 parsley,roses,1
 rue,roses,1
 sage,roses,1
@@ -508,6 +508,74 @@ raspberry,rue,1
 roses,rue,1
 sage,rue,-1
 
+cabbage,sage,1
+carrots,sage,1
+cucumber,sage,-1
+grass,sage,-1
+parsnip,sage,1
+rosemary,sage,1
+roses,sage,1
+rue,sage,-1
+strawberry,sage,1
 
+onion,savory,1
 
+cherry,silverbeet,1
+fruit trees,silverbeet,1
+lavender,silverbeet,1
+marjoram,silverbeet,1
+onion,silverbeet,1
 
+cherry,spinach,1
+fruit trees,spinach,1
+marjoram,spinach,1
+strawberry,spinach,1
+
+borage,squash,1
+corn,squash,1
+marjoram,squash,1
+nasturtiums,squash,1
+sunflower,squash,1
+tansy,squash,1
+
+borage,strawberry,1
+cabbage,strawberry,-1
+chives,strawberry,1
+marigold,strawberry,1
+garlic,strawberry,-1
+lavender,strawberry,1
+lettuce,strawberry,1
+onion,strawberry,1
+sage,strawberry,1
+spinach,strawberry,1
+
+cucumber,sunflower,1
+
+beets,tomato,-1
+borage,tomato,1
+cabbage,tomato,-1
+carrots,tomato,1
+celery,tomato,1
+chives,tomato,1
+dill,tomato,1
+fennel,tomato,-1
+marigold,tomato,1
+gooseberry,tomato,1
+grape vine,tomato,1
+marjoram,tomato,1
+mint,tomato,1
+nasturtiums,tomato,1
+onion,tomato,1
+parsley,tomato,1
+parsnip,tomato,1
+rosemary,tomato,-1
+
+chervil,yarrow,1
+fruit trees,yarrow,1
+grape vine,yarrow,1
+grass,yarrow,1
+tansy,yarrow,1
+
+corn,zucchini,1
+marjoram,zucchini,1
+nasturtiums,zucchini,1
