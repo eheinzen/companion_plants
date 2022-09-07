@@ -1,0 +1,513 @@
+first,second,direction
+apricot,basil,1
+apricot,marigold,1
+apricot,garlic,1
+apricot,nasturtiums,1
+apricot,spinach,1
+apricot,sunflower,1
+apricot,tomato,-1
+apricot,yarrow,1
+asparagus,basil,1
+asparagus,marjoram,1
+asparagus,parsley,1
+asparagus,tomato,1
+basil,apricot,1
+basil,asparagus,1
+basil,chives,1
+basil,cucumber,1
+basil,fennel,1
+basil,rue,-1
+basil,silverbeet,-1
+basil,tomato,1
+beans,broccoli,1
+beans,brussel sprouts,1
+beans,cabbage,1
+beans,carrots,1
+beans,cauliflower,1
+beans,chives,-1
+beans,corn,1
+beans,cucumber,1
+beans,fennel,-1
+beans,marigold,1
+beans,garlic,-1
+beans,grape vine,1
+beans,lettuce,1
+beans,marjoram,1
+beans,onion,-1
+beans,parsley,1
+beans,peas,1
+beans,potato,1
+beans,rosemary,1
+beans,sage,1
+beans,savory,1
+broad beans,broccoli,1
+broad beans,brussel sprouts,1
+broad beans,cabbage,1
+broad beans,cauliflower,1
+broad beans,chives,-1
+broad beans,corn,1
+broad beans,fennel,-1
+broad beans,garlic,-1
+broad beans,lettuce,1
+broad beans,marjoram,1
+broad beans,onion,-1
+broad beans,potato,1
+broad beans,spinach,1
+bush beans,beets,1
+bush beans,broccoli,1
+bush beans,brussel sprouts,1
+bush beans,cabbage,1
+bush beans,cauliflower,1
+bush beans,celery,1
+bush beans,chives,-1
+bush beans,corn,1
+bush beans,cucumber,1
+bush beans,garlic,-1
+bush beans,marjoram,1
+bush beans,onion,-1
+bush beans,potato,1
+bush beans,strawberry,1
+bush beans,sunflower,1
+climbing beans,beets,-1
+climbing beans,broccoli,1
+climbing beans,brussel sprouts,1
+climbing beans,cabbage,1
+climbing beans,cauliflower,1
+climbing beans,chives,-1
+climbing beans,corn,1
+climbing beans,garlic,-1
+climbing beans,lettuce,1
+climbing beans,marjoram,1
+climbing beans,onion,-1
+climbing beans,radish,1
+climbing beans,sunflower,-1
+chives,apple,1
+marigold,apple,1
+garlic,apple,1
+grass,apple,-1
+horseradish,apple,1
+lemon balm,apple,1
+mustard,apple,1
+nasturtiums,apple,1
+potato,apple,-1
+spinach,apple,1
+tansy,apple,1
+yarrow,apple,1
+marigold,apricot,1
+garlic,apricot,1
+grass,apricot,-1
+horseradish,apricot,1
+lemon balm,apricot,1
+mustard,apricot,1
+nasturtiums,apricot,1
+spinach,apricot,1
+sunflower,apricot,1
+tansy,apricot,1
+tomato,apricot,-1
+yarrow,apricot,1
+chives,asparagus,1
+marjoram,asparagus,1
+parsley,asparagus,1
+tomato,asparagus,1
+cucumber,basil,1
+fennel,basil,1
+rue,basil,-1
+silverbeet,basil,-1
+tomato,basil,1
+cabbage,beans,1
+carrots,beans,1
+chives,beans,-1
+corn,beans,1
+cucumber,beans,1
+eggplant,beans,1
+fennel,beans,-1
+marigold,beans,1
+garlic,beans,-1
+lettuce,beans,1
+marjoram,beans,1
+onion,beans,-1
+parsley,beans,1
+parsnip,beans,1
+potato,beans,1
+rosemary,beans,1
+sage,beans,1
+shallots,beans,-1
+cabbage,broad beans,1
+chives,broad beans,-1
+corn,broad beans,1
+fennel,broad beans,-1
+garlic,broad beans,-1
+lettuce,broad beans,1
+marjoram,broad beans,1
+onion,broad beans,-1
+potato,broad beans,1
+spinach,broad beans,1
+beets,bush beans,1
+cabbage,bush beans,1
+celery,bush beans,1
+chives,bush beans,-1
+corn,bush beans,1
+cucumber,bush beans,1
+garlic,bush beans,-1
+marjoram,bush beans,1
+onion,bush beans,-1
+potato,bush beans,1
+strawberry,bush beans,1
+sunflower,bush beans,1
+beets,climbing beans,-1
+cabbage,climbing beans,1
+chives,climbing beans,-1
+corn,climbing beans,1
+garlic,climbing beans,-1
+lettuce,climbing beans,1
+marjoram,climbing beans,1
+onion,climbing beans,-1
+radish,climbing beans,1
+sunflower,climbing beans,-1
+cabbage,beets,1
+dill,beets,1
+lettuce,beets,1
+marjoram,beets,1
+onion,beets,1
+potato,beets,1
+silverbeet,beets,1
+tomato,beets,1
+cabbage,borage,1
+cucumber,borage,1
+strawberry,borage,1
+tansy,borage,1
+tomato,borage,1
+beets,broccoli,1
+borage,broccoli,1
+coriander,broccoli,1
+cucumber,broccoli,1
+dill,broccoli,1
+marigold,broccoli,1
+marjoram,broccoli,1
+nasturtiums,broccoli,1
+potato,broccoli,1
+rue,broccoli,-1
+strawberry,broccoli,-1
+tomato,broccoli,1
+beets,brussel sprouts,1
+borage,brussel sprouts,1
+coriander,brussel sprouts,1
+cucumber,brussel sprouts,1
+dill,brussel sprouts,1
+marigold,brussel sprouts,1
+marjoram,brussel sprouts,1
+potato,brussel sprouts,1
+strawberry,brussel sprouts,1
+sunflower,brussel sprouts,1
+beets,cabbage,1
+borage,cabbage,1
+celery,cabbage,1
+coriander,cabbage,1
+cucumber,cabbage,1
+dill,cabbage,1
+marigold,cabbage,1
+garlic,cabbage,-1
+lavender,cabbage,1
+lettuce,cabbage,1
+marjoram,cabbage,1
+mint,cabbage,1
+nasturtiums,cabbage,1
+onion,cabbage,1
+potato,cabbage,1
+rosemary,cabbage,1
+rue,cabbage,-1
+sage,cabbage,1
+strawberry,cabbage,-1
+tansy,cabbage,1
+thyme,cabbage,1
+cabbage,chamomile,1
+mint,chamomile,-1
+chives,carrots,1
+coriander,carrots,1
+cucumber,carrots,1
+dill,carrots,1
+fruit trees,carrots,1
+leeks,carrots,1
+lettuce,carrots,1
+marjoram,carrots,1
+onion,carrots,1
+parsnip,carrots,-1
+radish,carrots,1
+rue,carrots,1
+tomato,carrots,1
+beets,cauliflower,1
+borage,cauliflower,1
+celery,cauliflower,1
+coriander,cauliflower,1
+cucumber,cauliflower,1
+dill,cauliflower,1
+marigold,cauliflower,1
+marjoram,cauliflower,1
+potato,cauliflower,1
+rue,cauliflower,-1
+strawberry,cauliflower,-1
+tomato,cauliflower,1
+cabbage,celery,1
+dill,celery,1
+leeks,celery,1
+marjoram,celery,1
+parsnip,celery,-1
+potato,celery,-1
+tomato,celery,1
+chives,cherry,1
+marigold,cherry,1
+garlic,cherry,1
+grass,cherry,-1
+horseradish,cherry,1
+lemon balm,cherry,1
+lettuce,cherry,1
+mustard,cherry,1
+nasturtiums,cherry,1
+potato,cherry,-1
+silverbeet,cherry,1
+spinach,cherry,1
+tansy,cherry,1
+yarrow,cherry,1
+coriander,chervil,1
+dill,chervil,1
+lettuce,chervil,1
+radish,chervil,1
+carrots,chives,1
+cherry,chives,1
+fruit trees,chives,1
+marjoram,chives,1
+parsley,chives,1
+parsnip,chives,1
+roses,chives,1
+strawberry,chives,1
+tomato,chives,1
+cabbage,coriander,1
+carrots,coriander,1
+chervil,coriander,1
+dill,coriander,1
+parsnip,coriander,1
+cabbage,dill,1
+carrots,dill,1
+chervil,dill,1
+coriander,dill,1
+parsnip,dill,1
+cucumber,corn,1
+marjoram,corn,1
+parsnip,corn,1
+potato,corn,1
+pumpkin,corn,1
+radish,corn,1
+zucchini,corn,1
+
+borage,cucumber,1
+cabbage,cucumber,1
+carrots,cucumber,1
+corn,cucumber,1
+dill,cucumber,1
+lettuce,cucumber,1
+marjoram,cucumber,1
+nasturtiums,cucumber,1
+potato,cucumber,-1
+radish,cucumber,1
+sage,cucumber,-1
+sunflower,cucumber,1
+tansy,cucumber,1
+
+coriander,fennel,-1
+dill,fennel,1
+lavender,fennel,-1
+tomato,fennel,-1
+
+cabbage,marigold,1
+carrots,marigold,1
+cherry,marigold,1
+fruit trees,marigold,1
+lettuce,marigold,1
+potato,marigold,1
+raspberry,marigold,1
+roses,marigold,1
+strawberry,marigold,1
+tomato,marigold,1
+
+chives,fruit trees,1
+marigold,fruit trees,1
+garlic,fruit trees,1
+grass,fruit trees,-1
+lemon balm,fruit trees,1
+mustard,fruit trees,1
+nasturtiums,fruit trees,1
+silverbeet,fruit trees,1
+spinach,fruit trees,1
+tansy,fruit trees,1
+yarrow,fruit trees,1
+
+cabbage,garlic,-1
+chervil,garlic,1
+fruit trees,garlic,1
+lavender,garlic,1
+rosemary,garlic,1
+roses,garlic,1
+sunflower,garlic,-1
+
+mustard,grape vine,1
+tansy,grape vine,1
+tomato,grape vine,1
+yarrow,grape vine,1
+
+beets,lettuce,1
+cabbage,lettuce,1
+carrots,lettuce,1
+cherry,lettuce,1
+chervil,lettuce,1
+cucumber,lettuce,1
+marigold,lettuce,1
+marjoram,lettuce,1
+onion,lettuce,1
+parsely,lettuce,-1
+parsnip,lettuce,1
+radish,lettuce,1
+strawberry,lettuce,1
+
+beets,marjoram,1
+cabbage,marjoram,1
+carrots,marjoram,1
+celery,marjoram,1
+chives,marjoram,1
+corn,marjoram,1
+cucumber,marjoram,1
+eggplant,marjoram,1
+lavender,marjoram,1
+leeks,marjoram,1
+lettuce,marjoram,1
+onion,marjoram,1
+parsnip,marjoram,1
+potato,marjoram,1
+pumpkin,marjoram,1
+radish,marjoram,1
+shallots,marjoram,1
+silverbeet,marjoram,1
+spinach,marjoram,1
+tomato,marjoram,1
+zucchini,marjoram,1
+
+
+chives,mulberry,1
+marigold,mulberry,1
+garlic,mulberry,1
+grape vine,mulberry,1
+grass,mulberry,1
+lemon balm,mulberry,1
+mustard,mulberry,1
+nasturtiums,mulberry,1
+silverbeet,mulberry,1
+spinach,mulberry,1
+tansy,mulberry,1
+yarrow,mulberry,1
+
+cabbage,nasturtiums,1
+cherry,nasturtiums,1
+cucumber,nasturtiums,1
+fruit trees,nasturtiums,1
+potato,nasturtiums,1
+radish,nasturtiums,1
+roses,nasturtiums,1
+tomato,nasturtiums,1
+zucchini,nasturtiums,1
+
+beets,onion,1
+carrots,onion,1
+leeks,onion,1
+lettuce,onion,1
+marjoram,onion,1
+parsley,onion,1
+parsnip,onion,1
+roses,onion,1
+silverbeet,onion,1
+strawberry,onion,1
+tomato,onion,1
+
+
+chervil,parsley,1
+lettuce,parsley,-1
+mint,parsley,-1
+onion,parsley,1
+roses,parsley,1
+tomato,parsley,1
+
+borage,peas,1
+cabbage,peas,1
+carrots,peas,1
+celery,peas,1
+chives,peas,-1
+corn,peas,1
+cucumber,peas,1
+garlic,peas,-1
+lettuce,peas,1
+marjoram,peas,1
+onion,peas,-1
+parsnip,peas,1
+potato,peas,1
+raspberry,peas,1
+sage,peas,1
+shallots,peas,-1
+
+cabbage,pennyroyal,1
+
+beets,potato,1
+cabbage,potato,1
+celery,potato,-1
+cherry,potato,-1
+corn,potato,1
+cucumber,potato,-1
+eggplant,potato,1
+horseradish,potato,1
+marjoram,potato,1
+nasturtiums,potato,1
+parsnip,potato,1
+pumpkin,potato,-1
+raspberry,potato,-1
+rosemary,potato,-1
+sunflower,potato,-1
+tomato,potato,-1
+
+corn,pumpkin,1
+marjoram,pumpkin,1
+
+carrots,radish,1
+chervil,radish,1
+corn,radish,1
+cucumber,radish,1
+lettuce,radish,1
+marjoram,radish,1
+nasturtiums,radish,1
+parsnip,radish,1
+
+cabbage,rosemary,1
+carrots,rosemary,1
+garlic,rosemary,1
+parsley,rosemary,1
+sage,rosemary,1
+tomato,rosemary,-1
+
+chives,roses,1
+marigold,roses,1
+garlic,roses,1
+horseradish,roses,1
+lavender,roses,1
+lemon balm,roses,1
+nasturtiums,roses,1
+onions,roses,1
+parsley,roses,1
+rue,roses,1
+sage,roses,1
+tansy,roses,1
+thyme,roses,1
+
+cabbage,rue,-1
+raspberry,rue,1
+roses,rue,1
+sage,rue,-1
+
+
+
+
