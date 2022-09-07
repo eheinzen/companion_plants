@@ -1,0 +1,26 @@
+path.link {
+  fill: none;
+  stroke-width: 1;
+}
+path.link.direction-u {
+  stroke: #0f0;
+}
+
+path.link.direction-d {
+  stroke: #f00;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #fff;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+.fixed {fill: red !important;}
+
+text {
+  fill: #000;
+  font: 10px sans-serif;
+  pointer-events: none;
+}
