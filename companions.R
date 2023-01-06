@@ -1,10 +1,9 @@
 library(tidyverse)
-CONSIDER <- c("apple", "basil", "bush beans", "carrots", "chives",
-              "coriander", "corn", "cucumber", "dill", "fruit trees", "garlic",
-              "grape vine", "grass", "lettuce", "marigold", "marjoram", "mint",
-              "nasturtiums", "onion", "parsley", "parsnip", "peas", "pumpkin",
-              "raspberry", "rosemary", "shallots", "spinach", "strawberry",
-              "sunflower", "thyme", "tomato", "yarrow", "zucchini")
+CONSIDER <- c("apple", "basil", "bush beans", "carrots",
+              "coriander", "corn", "cucumber", "dill", "garlic",
+              "lettuce", "marigold", "marjoram",
+              "nasturtiums", "peas", "raspberry", "strawberry",
+              "thyme", "tomato", "yarrow", "zucchini")
 
 dat <- read_csv("companions.csv", col_types = cols()) %>%
   filter(!duplicated(map2(first, second, ~ paste(sort(c(.x, .y)), collapse = "---")))) %>%
